@@ -11,6 +11,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class TestController {
     private static final Logger logger = LoggerFactory.getLogger(TestController.class);
 
+    /**
+     * kk
+     */
     @RequestMapping(value="/test/userinfo/{userId}")
     @ResponseBody
     public String getUserInfo(@PathVariable(value="userId") String userId){
