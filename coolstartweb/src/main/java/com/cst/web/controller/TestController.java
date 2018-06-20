@@ -17,4 +17,8 @@ public class TestController {
         logger.info("userId :{}",userId);
         return "{\"2\":\"3\"}";
     }
+    
+    public String addUser() {
+    	return "";
+    }
 }

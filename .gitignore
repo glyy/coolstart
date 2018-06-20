@@ -1,0 +1,8 @@
+target
+.settings
+.project
+.classpath
+.springBeans
+log
+.idea
+catalina.base_IS_UNDEFINED
