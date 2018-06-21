@@ -6,3 +6,4 @@ target
 log
 .idea
 catalina.base_IS_UNDEFINED
+/bin/

@@ -19,6 +19,7 @@ public class TestController {
     }
     
     public String addUser() {
+    	System.out.println("测试方法");
     	return "";
     }
 }
